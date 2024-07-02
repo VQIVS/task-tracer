@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Go workspace file
+*.workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Vendor directory
+/vendor/
+
+# Dependency directories (remove the comment below if you use these tools)
+# /Godeps/
+# /vendor/
